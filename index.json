@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": 1,
+        "name": "a game",
+        "genre": "please work",
+        "published": "2025-11-17",
+        "url": "https://raw.githubusercontent.com/violetv0id/otherworld-worlds/main/world1_a-game.zip"
+    }
+]
