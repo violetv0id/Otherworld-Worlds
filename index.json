@@ -12,5 +12,12 @@
         "genre": "gay",
         "published": "2025-11-17",
         "url": "https://github.com/violetv0id/Otherworld-Worlds/raw/refs/heads/main/world2_a-sigma-sigma-world.zip"
+    },
+    {
+        "id": 3,
+        "name": "Test world 120 Megabytes",
+        "genre": "Development",
+        "published": "2025-11-22",
+        "url": "https://github.com/violetv0id/Otherworld-Worlds/raw/refs/heads/main/world3_test-world-120-megabytes.zip"
     }
 ]
