@@ -19,5 +19,12 @@
         "genre": "Development",
         "published": "2025-11-22",
         "url": "https://github.com/violetv0id/Otherworld-Worlds/raw/refs/heads/main/world3_test-world-120-megabytes.zip"
+    },
+    {
+        "id": 4,
+        "name": "daisy's pretty",
+        "genre": "Sandbox",
+        "published": "2025-11-22",
+        "url": "https://github.com/violetv0id/Otherworld-Worlds/raw/refs/heads/main/world4_daisy-s-pretty.zip"
     }
 ]
